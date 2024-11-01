@@ -23,6 +23,13 @@
       </p>
     </div>
 
+    <ul>
+      <li><img src="./spotify.svg" alt="spotify logl"> </li>
+      <li><img src="./apple-podcast.svg" alt="apple podcasts logo"> </li>
+      <li><img src="./google-podcasts.svg" alt="google podcasrs logo"> </li>
+      <li><img src="./pocket-casts.svg" alt="pocket podcats logo"> </li>
+    </ul>
+
 
   </div>
 </body>
