@@ -8,6 +8,20 @@
 </head>
 <body class="body">
   <div class="dad">
+    <div>
+      <img src="./logo.svg" alt="Avatar" class="avatar">
+    </div>
+
+    <div>
+      <span>PUBLISH YOU PODCASTS EVERYWHERE</span>
+    </div>
+    
+    <div>
+      <p>
+      Upload your audio to Pod with a single click.
+       We’ll then distribute your podcast to Spotify, Apple Podcasts, Google Podcasts, Pocket Casts and more!
+      </p>
+    </div>
 
 
   </div>
